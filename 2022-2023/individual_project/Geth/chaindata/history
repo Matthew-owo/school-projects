@@ -1,0 +1,4 @@
+eth.estimateGas
+eth.estimateGas()
+miner.setGasLimit()
+miner.setGasLimit(100000000000000)
